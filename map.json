@@ -91,7 +91,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/bbb.dgb-bwt.de\/b\/oli-knr-xte-une"
+                 "value":"https:\/\/bbb.dgb-bwt.de\/b\/oli-knr-xte-une\/"
                 }],
          "type":"tilelayer",
          "visible":true,
